@@ -2,7 +2,7 @@ import Veterinaria from "./components/Veterinaria";
 
 const App = () => {
   return (
-    <div class="container">
+    <div className="container">
       <Veterinaria />
     </div>
   );
